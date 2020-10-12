@@ -17,14 +17,14 @@ Description: >
   computation platform, researchers can cross-analyze Kids First data with data
   from other efforts, such as NCI’s TARGET program and consortia-based datasets
   like the Children’s Brain Tumor Tissue Consortium (CBTTC).
-  
+
   Kids First is made available on AWS via the [NIH STRIDES Initiative](https://aws.amazon.com/blogs/publicsector/aws-and-national-institutes-of-health-collaborate-to-accelerate-discoveries-with-strides-initiative/).
 Documentation: https://kidsfirstdrc.org/
 Contact: support@kidsfirstdrc.org
 ManagedBy: "[The Gabriella Miller Kids First Data Resource Center at the Children's Hospital of Philadelphia](https://kidsfirstdrc.org/)"
 UpdateFrequency: |
   Data is updated on a rolling basis by the KFDRC to make data available as
-  rapidly as possible under the NIH Genomic Data Sharing Policy. 
+  rapidly as possible under the NIH Genomic Data Sharing Policy.
 Tags:
   - aws-pds
   - life sciences
@@ -140,7 +140,7 @@ DataAtWork:
     - Title: Germline 16p11.2 Microdeletion Predisposes to Neuroblastoma.
       URL: http://www.ncbi.nlm.nih.gov/pubmed/31474320
       AuthorName: Laura Egolf, Zalman Vaksman, et al.
-    - Title: "MAGEL2-Related Disorders: A study and case series." 
+    - Title: "MAGEL2-Related Disorders: A study and case series."
       URL: http://www.ncbi.nlm.nih.gov/pubmed/31397880
       AuthorName: Jameson Patak, James Gilfert, et al.
     - Title: Phenotype delineation of ZNF462 related syndrome.
@@ -149,7 +149,7 @@ DataAtWork:
     - Title: Development and Clinical Validation of a Large Fusion Gene Panel for Pediatric Cancers.
       URL: http://www.ncbi.nlm.nih.gov/pubmed/31255796
       AuthorName: Fengqi Chang, Fumin Lin, et al.
-    - Title: Decreased ACKR3 (CXCR7) function causes oculomotor synkinesis in mice and humans. 
+    - Title: Decreased ACKR3 (CXCR7) function causes oculomotor synkinesis in mice and humans.
       URL: http://www.ncbi.nlm.nih.gov/pubmed/31211835
       AuthorName: Mary C Whitman, Noriko Miyake, et al.
     - Title: Deleterious de novo variants of X-linked ZC4H2 in females cause a variable phenotype with neurogenic arthrogryposis multiplex congenita.
@@ -158,12 +158,18 @@ DataAtWork:
     - Title: "The Pediatric Cell Atlas: Defining the Growth Phase of Human Development at Single-Cell Resolution."
       URL: http://www.ncbi.nlm.nih.gov/pubmed/30930166
       AuthorName: Deanne M Taylor, Bruce J Aronow, et al.
-    - Title: MACF1 Mutations Encoding Highly Conserved Zinc-Binding Residues of the GAR Domain Cause Defects in Neuronal Migration and Axon Guidance 
+    - Title: MACF1 Mutations Encoding Highly Conserved Zinc-Binding Residues of the GAR Domain Cause Defects in Neuronal Migration and Axon Guidance
       URL: https://pubmed.ncbi.nlm.nih.gov/30471716/
       AuthorName: William B Dobyns, Kimberly A Aldinger, et al.
-    - Title: Clinically Relevant and Minimally Invasive Tumor Surveillance of Pediatric Diffuse Midline Gliomas Using Patient-Derived Liquid Biopsy  
+    - Title: Clinically Relevant and Minimally Invasive Tumor Surveillance of Pediatric Diffuse Midline Gliomas Using Patient-Derived Liquid Biopsy
       URL: https://pubmed.ncbi.nlm.nih.gov/30322880/
       AuthorName: Eshini Panditharatna, Lindsay B Kilburn, et al.
-    - Title: Genome-Wide Association Study Identifies a Susceptibility Locus for Comitant Esotropia and Suggests a Parent-of-Origin Effect  
+    - Title: Genome-Wide Association Study Identifies a Susceptibility Locus for Comitant Esotropia and Suggests a Parent-of-Origin Effect
       URL: https://pubmed.ncbi.nlm.nih.gov/30098192/
       AuthorName: Sherin Shaaban, Sarah MacKinnon et al.
+    - Title: ORE identifies extreme expression effects enriched for rare variants
+      URL: https://pubmed.ncbi.nlm.nih.gov/30903145/
+      AuthorName: Florian Richter, Gabriel E Hoffman et al.
+    - Title: De novo variants in congenital diaphragmatic hernia identify MYRF as a new syndrome and reveal genetic overlaps with other developmental disorders
+      URL: https://pubmed.ncbi.nlm.nih.gov/30532227/
+      AuthorName: Hongjian Qi, Lan Yu et al.
